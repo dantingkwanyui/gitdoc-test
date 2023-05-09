@@ -15,3 +15,5 @@ This is a test to gitdoc and CI/CD.
 temptemptemp
 
 ...
+
+git reset --hard origin/main
