@@ -11,4 +11,4 @@ Commit message format: `FF`
 
 This repository will delete soon.
 =======
-This is a test to gitdoc and CI/CD.]sss
+This is a test to gitdoc and CI/CD.
