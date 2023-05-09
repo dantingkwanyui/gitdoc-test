@@ -17,3 +17,5 @@ temptemptemp
 ...
 
 git reset --hard origin/main
+
+git fetch --prune origin
