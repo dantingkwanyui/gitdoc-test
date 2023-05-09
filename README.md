@@ -9,12 +9,7 @@ Every save in vscode can deploy pods on k8s.
 Commit message format: `FF`
 
 This repository will delete soon.
-<<<<<<< HEAD
-
-[try to override]
-=======
 This is a test to gitdoc and CI/CD.
 
 
 temptemptemp
->>>>>>> main
