@@ -12,7 +12,7 @@ This repository will delete soon.
 This is a test to gitdoc and CI/CD.
 
 ```bash
-ls
+ls -l
 ```
 
 git reset --hard origin/main
