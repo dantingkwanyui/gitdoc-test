@@ -12,7 +12,7 @@ This repository will delete soon.
 This is a test to gitdoc and CI/CD.
 
 ```text
-This is my test area. Test jenkins pushes. Yes hello nononononono
+This is my test area. Test jenkins pushes.
 ```
 
 git reset --hard origin/main
